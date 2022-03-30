@@ -9,7 +9,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        // This function calculates the area of a triangle
+        // This function calculates the area of a Trapezoid
         double baseAOfTrapezoid;
         double baseBOfTrapezoid;
         double heightOfTrapezoid;
