@@ -35,7 +35,7 @@ class Program
         area = ((baseAOfTrapezoid + baseBOfTrapezoid) / 2) * heightOfTrapezoid;
 
         // output
-        Console.WriteLine("The area is of the trapezoid is: " + area.ToString("0.00") + " " + "cm².");
+        Console.WriteLine("The area of the trapezoid is: " + area.ToString("0.00") + " " + "cm².");
 
         Console.WriteLine("\nDone.");
     }
